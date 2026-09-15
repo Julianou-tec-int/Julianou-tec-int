@@ -1,4 +1,4 @@
-# Olá, sou Juliano!
+# Juliano Vittor
 
 Sou estudante de Ciência da Computação, interessado em tecnologia, desenvolvimento de soluções e aprendizado contínuo.
 
